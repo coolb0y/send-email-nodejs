@@ -8,7 +8,7 @@ Now you need to make some changes to this script. In auth option in createTransp
 
 Run this app with the following command 
 - node send-email.js
-- You will see response like this in your browser .
+- You will see response like this in your terminal . 200 means works like a charm .
 
 ![alt text](https://github.com/coolb0y/send-email-nodejs/blob/main/images/WhatsApp%20Image%202021-07-03%20at%2012.34.48%20PM.jpeg?raw=true)
 
